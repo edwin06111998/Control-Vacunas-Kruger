@@ -26,8 +26,8 @@ const Subtitle = ({ isOpenC, setIsOpenC, principal, secondary }) => {
                 </h6>
             </div>
             <div className='search_side'>
-                <input className="form-control inputBuscar" placeholder="Búsqueda por nodo o IP..." onChange={handleChange} />
-                <Button onClick={function (event) { togglePopupC(); }} className="button-agregar">Agregar Nodo</Button>
+                <input className="form-control inputBuscar" placeholder="Búsqueda por empleado" onChange={handleChange} />
+                <Button onClick={function (event) { togglePopupC(); }} className="button-agregar">Agregar</Button>
                 {isOpenC ?
                     <Create togglePopupC={togglePopupC}/> : null}
             </div>
