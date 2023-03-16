@@ -1,0 +1,7 @@
+.container_principal {
+    background-color: rgba(243, 245, 247, 255);
+    min-height: 100%;
+    height: 100%;
+    position: relative;
+    min-height: 100vh;
+}

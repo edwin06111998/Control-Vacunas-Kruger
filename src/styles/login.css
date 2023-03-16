@@ -1,0 +1,88 @@
+.div-background {
+  background-image: url(../imagenes/background_login.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+@media (min-width: 768px) {
+  .div-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 7%;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+}
+
+.gradient-custom-2 {
+  /* fallback for old browsers */
+  background: #fccb90;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, #0884ae, #208fb4, #0db8f1, #35cbfd);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #0884ae, #208fb4, #0db8f1, #35cbfd);
+}
+
+#gradient-custom-2-id {
+  display: flex;
+  width: 55%;
+  border-top-left-radius: 3em;
+  border-bottom-left-radius: 3em;
+  padding: 5%;
+}
+
+@media (min-width: 768px) {
+.div-login {
+  width: 40%;
+  padding: 5%;
+  background-color: #ECF1FF;
+  border-top-right-radius: 3em;
+  border-bottom-right-radius: 3em;
+}
+}
+.titulo-login-izquierdo {
+  color: white;
+  font-weight: bold;
+  font-size: 2.5em;
+  margin-top: 5%;
+}
+
+.subtitulo-login-izquierdo {
+  color: white;
+}
+
+.login-right-side {
+  margin-top: 10%;
+}
+
+.subtitle-bold{
+  font-weight: bold;
+}
+
+.text-fields {
+  margin-top: 7%;
+}
+
+#buttom-submit {
+  border-radius: 25%;
+}
+
+.text-left {
+  margin-top: 10%;
+  display: flex;
+  flex-direction: row;  
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-right-side-final {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 15%;
+  justify-content: center;
+}

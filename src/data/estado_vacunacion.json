@@ -1,0 +1,10 @@
+[
+    {
+        "value": 0,
+        "label": "Vacunado"
+    },
+    {
+        "value": 1,
+        "label": "No vacunado"
+    }
+]

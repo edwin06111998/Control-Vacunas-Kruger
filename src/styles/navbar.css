@@ -1,0 +1,36 @@
+/* Modify the background color */
+
+.navbar {
+  background-color: #0B6CF4;
+  overflow: hidden;
+}
+
+/* Modify brand and text color */
+
+.navbar-brand {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+.navbar-profile {
+  color: rgb(255, 255, 255);
+  font-weight: lighter;
+  font-size: small;
+  margin: 0;
+}
+
+.fa {
+  color: rgb(255, 255, 255);
+  font-size: 1.7em !important;
+  /*size whatever you like*/
+}
+
+#user-profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+
+.navbar-profile {
+  margin-left: 0.5rem;
+}

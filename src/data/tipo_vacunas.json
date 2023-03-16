@@ -1,0 +1,22 @@
+[
+  {
+    "value": 0,
+    "label": "No aplica"
+  },
+  {
+    "value": 1,
+    "label": "Sputnik"
+  },
+  {
+    "value": 2,
+    "label": "AstraZeneca"
+  },
+  {
+    "value": 3,
+    "label": "Pfizer"
+  },
+  {
+    "value": 4,
+    "label": "Jhonson&Jhonson"
+  }
+]
