@@ -75,7 +75,7 @@ Importante: las versiones de Node y NPM que se utilizaron en este proyecto son:
 
 ## Retroalimentación
 
-Siéntete libre de comentarme tu experiencia utilizando este sistema, puedes escribir al siguiente correo: edwin06111998@gmail.com. Tus comentarios son importantes para seguir haciendo robusto este sistema.
+Siéntete libre de comentarme tu experiencia utilizando este sistema, puedes escribir al siguiente correo: eeveloz@espol.edu.ec. Tus comentarios son importantes para seguir haciendo robusto este sistema.
 
 ## Contribuidores
 
@@ -85,4 +85,4 @@ Este proyecto ha sido desarrollado únicamente por mí (Edwin Veloz).
 ## Contacto
 
 - LinkedIn: www.linkedin.com/in/edwin-veloz-2153a9137
-- Correo: edwin06111998@gmail.com
+- Correo: eeveloz@espol.edu.ec
