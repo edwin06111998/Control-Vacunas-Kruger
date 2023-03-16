@@ -58,7 +58,7 @@ Importante: los datos se encuentran en /data, el archivo usuarios.json es el ún
 - Clonar este repositorio.
 - Instalar Node y NPM, aquí un enlace para su descarga (https://www.cursosgis.com/como-instalar-node-js-y-npm-en-4-pasos/).
 - Abrir una terminal en el directorio del repositorio, luego ejectar el comando *npm install*.
-- Una vez instaladas las dependencias, ejecutar el proyecto con el comando *npm start* >s<
+- Una vez instaladas las dependencias, ejecutar el proyecto con el comando *npm start*
 - Y listo, esto ejecutará el sistema web en el puerto 3000, en caso de que ese puerto esté ocupado, presionar Y en la terminar para que se ejecute en otro puerto libre.
 - Para ver el archivo dinámico cargado en el LocalStorage, dirigirse a Inspeccionar/Aplicación/Storage/LocalStorage, allí estará un archivo con los datos de los usuarios, servirá para comprobar que los usuarios son actualizados, agregados o eliminados según sea el caso.
   
