@@ -1,12 +1,8 @@
 <p align="center">
-    <img alt="Web Server" title="Web Server" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/ReactJS.jpg">
+    <img alt="Web Server" title="Web Server" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/React%20JS%20Kruger.jpg">
   </a>
 </p>
-<h1 align="center"> Monitoreo Web de Servidores </h1> <br>
-
-<p align="center">
-  Sistema web para monitorear en tiempo real la conexión con servidores.
-</p>
+<h1 align="center"> Sistema de control de vacunación </h1> <br>
 
 ## Tabla de contenidos
 
